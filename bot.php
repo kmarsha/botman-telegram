@@ -19,7 +19,8 @@ require "vendor/autoload.php";
 
 $configs = [
   "telegram" => [
-    "token" => "5396273704:AAFJ_Wsf-KOfiqpO2NjHUw3PAJcB2umpIkI"
+    // "token" => "5396273704:AAFJ_Wsf-KOfiqpO2NjHUw3PAJcB2umpIkI"
+    // "token" => //your telegram bot token
   ],
 ];
 
